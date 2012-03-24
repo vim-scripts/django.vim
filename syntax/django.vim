@@ -45,7 +45,7 @@ syn keyword djangoFilter contained linebreaks linebreaksbr linenumbers ljust
 syn keyword djangoFilter contained lower make_list phone2numeric pluralize
 syn keyword djangoFilter contained pprint random removetags rjust slice slugify
 syn keyword djangoFilter contained safe safeseq stringformat striptags
-syn keyword djangoFilter contained time timesince timeuntil title
+syn keyword djangoFilter contained time timesince timeuntil title truncatechars
 syn keyword djangoFilter contained truncatewords truncatewords_html unordered_list upper urlencode
 syn keyword djangoFilter contained urlize urlizetrunc wordcount wordwrap yesno
 
